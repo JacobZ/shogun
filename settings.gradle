@@ -1,0 +1,5 @@
+rootProject.name = 'hsm'
+include 'processor'
+include 'main'
+include 'library'
+
